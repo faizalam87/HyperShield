@@ -1,4 +1,4 @@
-**HyperShield: Systematic Evaluation of Isolation Guarantees in Virtual Systems**
+# HyperShield: Systematic Evaluation of Isolation Guarantees in Virtual Systems
 
 ## Overview
 
