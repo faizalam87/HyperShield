@@ -2,7 +2,7 @@
 
 ## Overview
 
-VirtShield is a research framework for evaluating security mechanisms in both **virtual machines (VMs)** and **containers**.\
+HyperShield is a research framework for evaluating security mechanisms in both **virtual machines (VMs)** and **containers**.\
 It enables controlled experiments with security models deployed in either kernel-space or user-space, while supporting end-to-end benchmarking of both **network performance** and **microarchitectural behavior**.
 
 Two deployment options are supported:
@@ -257,9 +257,9 @@ sudo sysctl -w net.ipv4.ip_forward=1
 
 ## Part II. Container-Based Setup
 
-# VirtShield Container Setup Guide
+# HyperShield Container Setup Guide
 
-This guide walks you through the **Container-based setup** for the VirtShield platform. It mirrors the VM-based setup but uses lightweight containers to emulate the client, server, and firewall environments.
+This guide walks you through the **Container-based setup** for the HyperShield platform. It mirrors the VM-based setup but uses lightweight containers to emulate the client, server, and firewall environments.
 
 ---
 ### Prerequisites
